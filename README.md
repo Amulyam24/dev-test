@@ -3,5 +3,3 @@
 Information
 
 more info
-
-some more info
